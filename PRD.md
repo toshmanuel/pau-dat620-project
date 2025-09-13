@@ -436,30 +436,26 @@ dims-token-ido/
 
 ### 8.1 Pre-Launch Phase
 
-#### 8.1.1 Development (Weeks 1-4)
-- **Week 1:** Smart contract development and testing
-- **Week 2:** Frontend development and integration
-- **Week 3:** Testing and bug fixes
-- **Week 4:** Security audit and optimization
+#### 8.1.1 Development (Week 1)
+- **Days 1-2:** Smart contract development and testing
+- **Days 3-4:** Frontend development and integration
+- **Days 5-7:** Testing, bug fixes, and optimization
 
-#### 8.1.2 Testing (Weeks 5-6)
-- **Week 5:** Comprehensive testing and QA
-- **Week 6:** Performance optimization and final fixes
-
-#### 8.1.3 Deployment (Week 7)
-- **Day 1-2:** Smart contract deployment to Sepolia
-- **Day 3-4:** Frontend deployment and configuration
-- **Day 5-7:** Final testing and documentation
+#### 8.1.2 Testing & Deployment (Week 2)
+- **Days 1-2:** Comprehensive testing and QA
+- **Days 3-4:** Smart contract deployment to Sepolia
+- **Days 5-6:** Frontend deployment and configuration
+- **Day 7:** Final testing and documentation
 
 ### 8.2 Launch Phase
 
-#### 8.2.1 Soft Launch (Week 8)
+#### 8.2.1 Soft Launch (Week 2, Day 7)
 - **Target:** Internal team and beta users
-- **Duration:** 3 days
+- **Duration:** 1 day
 - **Focus:** Bug identification and user feedback
 - **Metrics:** Error rates, user feedback
 
-#### 8.2.2 Public Launch (Week 9)
+#### 8.2.2 Public Launch (Week 3)
 - **Target:** Public announcement
 - **Duration:** 7 days (IDO period)
 - **Focus:** User acquisition and token distribution
@@ -472,8 +468,8 @@ dims-token-ido/
 - **Focus:** Performance, security, user feedback
 - **Metrics:** Uptime, error rates, user satisfaction
 
-#### 8.3.2 Iteration (Monthly)
-- **Duration:** Monthly cycles
+#### 8.3.2 Iteration (Bi-weekly)
+- **Duration:** Bi-weekly cycles
 - **Focus:** Feature improvements, bug fixes
 - **Metrics:** User feedback, performance improvements
 
@@ -526,4 +522,4 @@ dims-token-ido/
 **Document Owner:** Development Team  
 **Last Updated:** September 2025  
 **Next Review:** October 2025  
-**Status:** In development
+**Status:** In development (2-week timeline)
