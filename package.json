@@ -1,0 +1,23 @@
+{
+  "name": "dims",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "2.0.0",
+    "@nomicfoundation/hardhat-verify": "1.0.0",
+    "@openzeppelin/contracts": "5.4.0",
+    "chai": "^4.4.1",
+    "dotenv": "17.2.2",
+    "hardhat": "2.22.10"
+  },
+  "dependencies": {
+    "ethers": "5.7.2"
+  }
+}
